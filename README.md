@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação completa de upload e leitura de documentos (PDFs e imagens), com extração de texto via OCR, explicações usando IA (GPT), e funcionalidades como download em PDF, exclusão de documentos e perguntas personalizadas sobre o conteúdo.
 
+[Visite a aplicação em produção](https://paggo.vercel.app/)
+
 ---
 
 ## 📁 Estrutura do Projeto
