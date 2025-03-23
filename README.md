@@ -1,4 +1,4 @@
-# Paggo 🧾✨
+# Paggo 🧾
 
 Este projeto é uma aplicação completa de upload e leitura de documentos (PDFs e imagens), com extração de texto via OCR, explicações usando IA (GPT), e funcionalidades como download em PDF, exclusão de documentos e perguntas personalizadas sobre o conteúdo.
 
@@ -24,8 +24,10 @@ O repositório é dividido em duas pastas principais:
 Você pode criar o banco com o seguinte comando (via psql ou pgAdmin):
 
 ```sql
-CREATE DATABASE nome-que-desejar;
+CREATE DATABASE nomedobanco;
 ```
+
+> Substitua `nomedobanco` pelo nome que desejar colocar no seu PostgreSQL local.
 
 ---
 
